@@ -1,7 +1,7 @@
 ![Inxton logo](./assets/logo.png)
 
 ## Inxton.Vortex.Framework
-### [Documentation](https://github.com/Inxton/documentation/tree/master/Inxton.Package.Vortex.Essentials)
+### [Documentation](https://github.com/Inxton/documentation)
 
 ## Inxton.Package.Vortex.Core
 ### [Documentation](https://github.com/Inxton/documentation/blob/master/Inxton.Package.Vortex.Core/README.md)
